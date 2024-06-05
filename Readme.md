@@ -1,4 +1,4 @@
-# Project Name
+# Social Networking
 
 This project is a web application built with Django. Below are the instructions for setting up the project using Docker and Docker Compose, as well as the steps for setting up the project in a regular Python environment.
 
