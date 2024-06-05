@@ -1,0 +1,7 @@
+.env/pyvenv.cfg
+.env/Lib/
+.env/Scripts/
+.env/
+accukonx/__pycache__/
+apps/users/__pycache__/
+apps/users/migrations/__pycache__/

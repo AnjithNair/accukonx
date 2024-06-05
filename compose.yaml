@@ -1,0 +1,9 @@
+services:
+  django:
+    environment:
+      - SECRET_KEY='django-insecure-)@bwsv@pcv+ce*o0ri4jy^9)oslb$ip^5pf)dexn!i0(=+p%@#'
+      - DEBUG=True
+    build: .
+    volumes:
+      - .:/code/
+    ports: [8000:8000]

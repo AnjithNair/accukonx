@@ -1,0 +1,8 @@
+django
+djangorestframework
+django-filter
+dj-rest-auth
+django-environ
+django-allauth
+djangorestframework-simplejwt
+django-cors-headers
